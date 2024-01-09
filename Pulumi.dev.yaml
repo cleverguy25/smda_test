@@ -1,0 +1,2 @@
+config:
+  pulumi:template: https://github.com/cleverguy25/templates/typescript
